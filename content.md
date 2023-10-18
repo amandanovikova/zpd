@@ -3,6 +3,7 @@
 ### Saturs
 
 #### 1. Aprakstīt spēli
+interesanta spele, kas attīsta domāšanu.
 #### 2. Spēles loģika
 
 Dators nejauši ģenerē vienu skaitli no 1 līdz 100. Tālāk, piedāvā spēlētājam uzminēt to skaitli. Un t.t.
@@ -45,4 +46,4 @@ while repeat:
         print("Paldies par spēli!  Bye, bye!")
 ```
 
-#### 3. Un t.t.
+
